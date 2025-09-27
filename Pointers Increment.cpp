@@ -1,5 +1,5 @@
-// Aditya Jadhav
-// 24070123005
+// Vaishnavi Pangare
+// 25070123501
 
 #include<iostream>
 using namespace std;
@@ -57,4 +57,5 @@ int main() {
 // Current salary: Rs 20000
 
 // Eligible for increment.
+
 // Updated Salary: 24000
